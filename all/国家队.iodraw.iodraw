@@ -7,8 +7,8 @@
         <mxCell id="TIX31gJpcBm3pf6Kcv_9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TIX31gJpcBm3pf6Kcv_9-1" target="TIX31gJpcBm3pf6Kcv_9-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TIX31gJpcBm3pf6Kcv_9-6" value="只做股权投资，派出懂事" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TIX31gJpcBm3pf6Kcv_9-5">
-          <mxGeometry x="-0.2541" y="3" relative="1" as="geometry">
+        <mxCell id="TIX31gJpcBm3pf6Kcv_9-8" value="只做股权投资，派出懂事" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TIX31gJpcBm3pf6Kcv_9-5">
+          <mxGeometry x="-0.0969" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -22,7 +22,7 @@
           <mxGeometry x="110" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TIX31gJpcBm3pf6Kcv_9-4" value="持股范围：四大行、国开行、中金、银河证券、申万宏源、中信建投、多家保险 / AMC，是国内绝大多数国有金融机构第一大股东" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="510" width="114" height="30" as="geometry" />
+          <mxGeometry x="360" y="480" width="114" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
