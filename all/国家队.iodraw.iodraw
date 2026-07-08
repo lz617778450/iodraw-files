@@ -1,28 +1,28 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="JvzgLuZPT2q7hpoBuxmA">
-    <mxGraphModel dx="768" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TIX31gJpcBm3pf6Kcv_9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TIX31gJpcBm3pf6Kcv_9-1" target="TIX31gJpcBm3pf6Kcv_9-4">
+        <mxCell id="TIX31gJpcBm3pf6Kcv_9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TIX31gJpcBm3pf6Kcv_9-1" target="TIX31gJpcBm3pf6Kcv_9-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TIX31gJpcBm3pf6Kcv_9-8" value="只做股权投资，派出懂事" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TIX31gJpcBm3pf6Kcv_9-5">
+        <mxCell id="TIX31gJpcBm3pf6Kcv_9-8" value="只做股权投资，派出懂事" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TIX31gJpcBm3pf6Kcv_9-5" vertex="1" connectable="0">
           <mxGeometry x="-0.0969" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TIX31gJpcBm3pf6Kcv_9-1" value="中央汇金(汇金)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="510" width="60" height="30" as="geometry" />
+        <mxCell id="TIX31gJpcBm3pf6Kcv_9-1" value="中央汇金(汇金)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TIX31gJpcBm3pf6Kcv_9-2" value="中信证券(中信)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="585" width="60" height="30" as="geometry" />
+        <mxCell id="TIX31gJpcBm3pf6Kcv_9-2" value="中信证券(中信)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="435" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TIX31gJpcBm3pf6Kcv_9-3" value="中金公司(中金)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="660" width="60" height="30" as="geometry" />
+        <mxCell id="TIX31gJpcBm3pf6Kcv_9-3" value="中金公司(中金)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="510" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TIX31gJpcBm3pf6Kcv_9-4" value="持股范围：四大行、国开行、中金、银河证券、申万宏源、中信建投、多家保险 / AMC，是国内绝大多数国有金融机构第一大股东" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="480" width="140" height="90" as="geometry" />
+        <mxCell id="TIX31gJpcBm3pf6Kcv_9-4" value="持股范围：四大行、国开行、中金、银河证券、申万宏源、中信建投、多家保险 / AMC，是国内绝大多数国有金融机构第一大股东" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="330" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
