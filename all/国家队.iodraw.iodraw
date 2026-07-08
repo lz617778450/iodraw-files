@@ -25,7 +25,10 @@
           <mxGeometry x="300" y="170" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HUzWMo6ZZowKf_f-HaPa-1" value="中金公司(中金)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="360" width="60" height="30" as="geometry" />
+          <mxGeometry x="120" y="275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HUzWMo6ZZowKf_f-HaPa-2" value="中信证券(中信)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="285" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
