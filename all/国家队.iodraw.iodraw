@@ -26,6 +26,9 @@
         <mxCell id="TIX31gJpcBm3pf6Kcv_9-4" value="持股范围：四大行、国开行、中金、银河证券、申万宏源、中信建投、多家保险 / AMC，是国内绝大多数国有金融机构第一大股东" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="170" width="140" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="HUzWMo6ZZowKf_f-HaPa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HUzWMo6ZZowKf_f-HaPa-1" target="HUzWMo6ZZowKf_f-HaPa-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HUzWMo6ZZowKf_f-HaPa-1" value="中金公司(中金)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="300" width="60" height="30" as="geometry" />
         </mxCell>
