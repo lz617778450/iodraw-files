@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TIX31gJpcBm3pf6Kcv_9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TIX31gJpcBm3pf6Kcv_9-1" target="TIX31gJpcBm3pf6Kcv_9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TIX31gJpcBm3pf6Kcv_9-1" value="中央汇金(汇金)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="510" width="60" height="30" as="geometry" />
         </mxCell>
@@ -14,7 +17,7 @@
           <mxGeometry x="110" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TIX31gJpcBm3pf6Kcv_9-4" value="中央汇金(汇金)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="520" width="60" height="30" as="geometry" />
+          <mxGeometry x="414" y="510" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
