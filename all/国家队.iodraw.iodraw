@@ -32,6 +32,9 @@
         <mxCell id="HUzWMo6ZZowKf_f-HaPa-2" value="中信证券(中信)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="380" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HUzWMo6ZZowKf_f-HaPa-6" value="高端国际化投行券商，同样是市场化经营券商" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
